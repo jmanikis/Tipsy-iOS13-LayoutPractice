@@ -1,5 +1,5 @@
 # Tipsy (Challenge App)
-App Completed as a part of Udemy Course - iOS &amp; Swift - The complete iOS Appe Development Bootcamp
+App Completed as a part of Udemy Course - iOS &amp; Swift - The complete iOS App Development Bootcamp
 
 
 # Apps Developped so far
